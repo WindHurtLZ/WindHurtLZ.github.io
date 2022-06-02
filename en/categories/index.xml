@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on WindHurtLZ&#39;s Blog</title>
+        <link>https://windhurtlz.github.io/en/categories/</link>
+        <description>Recent content in Categories on WindHurtLZ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 30 May 2022 14:32:49 -0400</lastBuildDate><atom:link href="https://windhurtlz.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>软件</title>
+        <link>https://windhurtlz.github.io/en/categories/%E8%BD%AF%E4%BB%B6/</link>
+        <pubDate>Mon, 30 May 2022 14:32:49 -0400</pubDate>
+        
+        <guid>https://windhurtlz.github.io/en/categories/%E8%BD%AF%E4%BB%B6/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

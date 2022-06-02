@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on WindHurtLZ&#39;s Blog</title>
+        <link>https://windhurtlz.github.io/tags/</link>
+        <description>Recent content in Tags on WindHurtLZ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 30 May 2022 14:32:49 -0400</lastBuildDate><atom:link href="https://windhurtlz.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Aseprite</title>
+        <link>https://windhurtlz.github.io/tags/aseprite/</link>
+        <pubDate>Mon, 30 May 2022 14:32:49 -0400</pubDate>
+        
+        <guid>https://windhurtlz.github.io/tags/aseprite/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
